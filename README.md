@@ -1,5 +1,5 @@
 # GoBang
-This is a game of Gobang.
+This is a game of Gobang.（五子棋）
 
 I have done 2 extensions of the background.
 You can open the (1,2,3).png to see the changes.
